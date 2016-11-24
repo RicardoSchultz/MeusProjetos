@@ -1,0 +1,6 @@
+c:\users\ricardo.schultz\documents\visual studio 2015\Projects\ricardoschultz\ricardoschultz\bin\Debug\ricardoschultz.exe.config
+c:\users\ricardo.schultz\documents\visual studio 2015\Projects\ricardoschultz\ricardoschultz\bin\Debug\ricardoschultz.exe
+c:\users\ricardo.schultz\documents\visual studio 2015\Projects\ricardoschultz\ricardoschultz\bin\Debug\ricardoschultz.pdb
+c:\users\ricardo.schultz\documents\visual studio 2015\Projects\ricardoschultz\ricardoschultz\obj\Debug\ricardoschultz.exe
+c:\users\ricardo.schultz\documents\visual studio 2015\Projects\ricardoschultz\ricardoschultz\obj\Debug\ricardoschultz.pdb
+c:\users\ricardo.schultz\documents\visual studio 2015\Projects\ricardoschultz\ricardoschultz\obj\Debug\ricardoschultz.csprojResolveAssemblyReference.cache
