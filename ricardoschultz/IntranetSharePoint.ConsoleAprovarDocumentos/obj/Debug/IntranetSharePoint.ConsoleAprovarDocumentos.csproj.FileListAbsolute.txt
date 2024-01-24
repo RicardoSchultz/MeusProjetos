@@ -1,0 +1,2 @@
+C:\MeusProjetos\Git\ricardoschultz\IntranetSharePoint.ConsoleAprovarDocumentos\obj\Debug\IntranetSharePoint.ConsoleAprovarDocumentos.csproj.AssemblyReference.cache
+C:\MeusProjetos\Git\ricardoschultz\IntranetSharePoint.ConsoleAprovarDocumentos\obj\Debug\IntranetSharePoint.ConsoleAprovarDocumentos.csproj.CoreCompileInputs.cache
